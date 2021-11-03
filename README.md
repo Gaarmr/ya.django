@@ -1,2 +1,2 @@
-# ya.django
+# YaTube
  Social network for blogs
